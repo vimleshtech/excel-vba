@@ -1,0 +1,21 @@
+VBA: visual basic application  for excel , ms word, ms access 
+---------------------------------------------------------------------
+
+VB: visual basic  
+VB.Net: software development
+VBS: visual basic script
+
+
+-> To open vba editor : Alt + F11
+
+-> save exce file with macro enable option 
+-> file extension will be .xlsm
+
+
+-> VBA First code/program:
+
+sub  hello()
+
+
+
+end sub
